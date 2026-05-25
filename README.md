@@ -52,5 +52,3 @@ The ecosystem is divided into modular engineering subsystems:
 - Controls System → Feedback and regulation logic
 
 ---
-
-## 📁 Repository Structure
